@@ -1,6 +1,6 @@
-FROM quintenk/supervisor
+FROM railsguru/linode
 
-MAINTAINER Quinten Krijger "https://github.com/Krijger"
+MAINTAINER Andy Lo-A-Foe "https://github.com/railsguru"
 
 RUN apt-get -y install python-software-properties
 RUN add-apt-repository ppa:webupd8team/java

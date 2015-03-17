@@ -1,4 +1,4 @@
 #! /bin/bash
 
-docker build -t quintenk/jdk-oracle .
-docker build -t quintenk/jdk-oracle:8 .
+docker build -t railsguru/jdk-oracle .
+docker build -t railsguru/jdk-oracle:8 .
